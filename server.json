@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Xbox Controller",
+      "color": "Red",
+      "price": 400,
+      "type": "Videogame"
+    },
+    {
+      "color": "Amarelo",
+      "name": "Garrafa Térmica",
+      "price": 12,
+      "type": "Bebida",
+      "id": 2
+    }
+  ]
+}
